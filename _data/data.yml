@@ -8,175 +8,72 @@ sidebar:
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
-  name: Alan Doe
-  tagline: Full Stack Developer
+  name: Kyungjun Min
+  tagline: M.S. - Ph. D. Student at POSTECH
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: example@email.com
-  phone: 012 345 6789
-  timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
-  citizenship:
-  website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-  linkedin: alandoe
-  xing: alandoe
-  github: jekyll
-  telegram: # add your nickname without '@' sign
-  gitlab:
-  bitbucket:
-  bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
-  twitter: '@jekyllrb'
-  stack-overflow: # Number/Username, e.g. 123456/alandoe
-  codewars:
-  goodreads: # Number-Username, e.g. 123456-alandoe
-  mastodon: # Please include your full Mastodon link here.
-  hackerrank: # Please provide your HackerRank username.
-  leetcode: # Please provide your LeetCode username.
-  pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
+  email: kj.min@postech.ac.kr
+  linkedin: https://www.linkedin.com/in/97kjmin
+  github: https://github.com/97kjmin
 
   languages:
     title: Languages
     info:
-    - idiom: English
+    - idiom: Korean
       level: Native
 
-    - idiom: French
-      level: Professional
-
-    - idiom: Spanish
+    - idiom: English
       level: Professional
 
   interests:
     title: Interests
     info:
-    - item: Climbing
+    - item: VLSI CAD
       link:
 
-
-    - item: Snowboarding
+    - item: ML EDA
       link:
 
-
-    - item: Cooking
+    - item: LLMs
       link:
-
 
 career-profile:
   title: Career Profile
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+    Kyungjun Min received a B.S. degree in electrical engineering from 
+    the Pohang University of Science and Technology (POSTECH), South Korea, 
+    in 2021. He is pursuing a Ph.D. degree in CAD & SoC Design Lab. 
+    at Pohang University of Science and Technology (POSTECH), South Korea. 
+    His current research interests include VLSI physical design optimization, 
+    AI-driven EDA and LLMs.
+    
 education:
   title: Education
   info:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
-    details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
-    details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
+  - degree: B.S. in Electrical Engineering
+    university: Pohang University of Science and Technology (POSTECH)
+    time: Feb.2016 - Feb.2021
+  - degree: M.S. - Ph.D. in Electrical Engineering 
+    university: Pohang University of Science and Technology (POSTECH)
+    time: Feb.2021 - Current 
 
 experiences:
-  title: Experiences
-  info:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - role: UI Developer
-    time: 2012 - 2014
-    company: Amazon, London
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
+    - role: Graduate Student Researcher
+      time: Feb.2021 - Current 
+      company: CAD & SoC Design Lab(CSDL) in POSTECH, Prof, Seokhyeong Kang
 
-certifications:
-  title: Certifications
-  list:
-  - name: CV Builder
-    start: 2020
-    end: 2021
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.google.com
-    credentialname: Google
-    details: |
-      Details about cert. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
+    - role: Research Internship
+      time: July.2023 - Aug.2023
+      company: Design Technology Team, Memory Business in Samsung Electronics 
 
-      Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-      fringilla vel. Ut euismod, sem sed vulputate venenatis,
-      justo diam viverra velit, sed rhoncus leo leo eu justo.
-      Suspendisse placerat risus ante, sed porta nisi blandit at.
-  - name: Git learning
-    start: 2019
-    end:
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.github.com
-    credentialname: Github
-    details: |
-      Older certification. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
+    - role: Undergraduated Student Researcher
+      time: Sep.2020 - Feb.2021
+      company: CAD & SoC Design Lab(CSDL) in POSTECH, Prof, Seokhyeong Kang
+
+    - role: Undergraduated Student Researcher
+      time: Jan.2019 - Feb.2019
+      company: CAD & SoC Design Lab(CSDL) in POSTECH, Prof, Seokhyeong Kang
 
 projects:
   title: Projects
@@ -203,84 +100,59 @@ projects:
     link: "#"
     tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-oss:
-  title: OSS Contributions
+projects:
+  title: Projects
   intro: >
-    You can list your open source software contributions in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-  contributions:
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+  assignments:
+    - title: "Wafer-Scale Physics Modeling – ISPD Contest (Dec. 2020 – Feb. 2021)"
+    - title: "AI Semiconductor Design Software Development – National Research Foundation of Korea (Apr. 2021 – Dec. 2024)"
+    - title: "Virtual Netlist Development Considering Standard Cell Usage – Samsung Electronics (May. 2021 – Apr. 2022)"
+    - title: "Functional ECO with Behavioral Change Guidance – ICCAD Contest (May. 2021 – Oct. 2021)"
+    - title: "Research on Physical Design (Place & Route) Optimization – Samsung Electronics (Sep. 2021 – Sep. 2023)"
+    - title: "Machine Learning Based Electronic Design Automation Software Development – Samsung Electronics (Mar. 2022 – Feb. 2025)"
+    - title: "Artificial Design Generation using Generative AI Models – Samsung Electronics (Mar. 2024 – Feb. 2025)"
+    - title: "LLM-Assisted Hardware Code Generation – ICCAD Contest (July. 2024 – Oct. 2024)"
+    - title: "AI-based IC Design Techniques – LX Semicon (Mar. 2025 – Present)"
+    - title: "Physical-Aware Logic Resynthesis for Timing Optimization Using AI – MLCAD Contest (May. 2025 – Present)"
 
 publications:
   title: Publications
   intro: |
-    You can list your publications in this section. Lorem ipsum dolor sit
-    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    bibendum fringilla a eu lectus.
   papers:
-  - title: The Art of Computer Programming
-    link: "#"
-    authors: Donald E. Knuth
-    conference: Addison-Wesley, 1968
+    - title: "Signal-Integrity-Aware Interposer Bus Routing in 2.5D Heterogeneous Integration"
+      link: "#"
+      authors: "Co-Author"
+      conference: "IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC 2022)"
 
-  - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-    link: "#"
-    authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-    conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+    - title: "CTRL-B: Back-End-Of-Line Configuration Pathfinding using Cross-Technology Transferable Reinforcement Learning"
+      link: "#"
+      authors: "Co-Author"
+      conference: "IEEE/ACM Design, Automation and Test in Europe Conference and Exhibition (DATE 2023)"
 
-  - title: A syntax directed compiler for Algol 60
-    link: "#"
-    authors: Edgar T. Irons
-    conference: "Comm. ACM 4 (1961), 51–55"
+    - title: "Construction of Realistic Place-and-route Benchmarks for Machine Learning Applications"
+      link: "#"
+      authors: "Co-Author"
+      conference: "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD 2023)"
 
-recommendations:
-  title: Recommendations
-  list:
-  - person: Yareli Perez
-    email: perezyareli@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      Alan Doe is a super employee!
-  - person: Lara Henderson
-    email: larah@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      I would like to work with Alan Doe again!
+    - title: "ClusterNet: Routing Congestion Prediction and Optimization using Netlist Clustering and Graph Neural Networks"
+      link: "#"
+      authors: "1st Author"
+      conference: "IEEE/ACM International Conference on Computer-Aided Design (ICCAD 2023)"
 
-      He is a great employee!
+    - title: "PPA-Relevant Clustering-Driven Placement for Large-Scale VLSI Designs"
+      link: "#"
+      authors: "1st Author"
+      conference: "ACM/IEEE Design Automation Conference (DAC 2024)"
 
-skills:
-  title: Skills &amp; Proficiency
+    - title: "Leveraging Machine Learning Techniques for Traditional EDA Workflow Enhancement"
+      link: "#"
+      authors: "Co-Author"
+      conference: "IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC 2025)"
 
-  toolset:
-  - name: Python & Django
-    level: 98%
-
-  - name: Javascript & jQuery
-    level: 98%
-
-  - name: Angular
-    level: 98%
-
-  - name: HTML5 & CSS
-    level: 95%
-
-  - name: Ruby on Rails
-    level: 85%
-
-  - name: Sketch & Photoshop
-    level: 60%
+    - title: "Improving LLM-based Verilog Code Generation with Data Augmentation and RL"
+      link: "#"
+      authors: "1st Author"
+      conference: "IEEE/ACM Design, Automation and Test in Europe Conference and Exhibition (DATE 2025)"
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
