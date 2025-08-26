@@ -14,8 +14,8 @@ sidebar:
 
   # Sidebar links
   email: kj.min@postech.ac.kr
-  linkedin: https://www.linkedin.com/in/97kjmin
-  github: https://github.com/97kjmin
+  linkedin: 97kjmin
+  github: 97kjmin
 
   languages:
     title: Languages
@@ -30,6 +30,9 @@ sidebar:
     title: Interests
     info:
     - item: VLSI CAD
+      link:
+
+    - item: Physical Design 
       link:
 
     - item: ML EDA
@@ -47,7 +50,6 @@ career-profile:
     at Pohang University of Science and Technology (POSTECH), South Korea. 
     His current research interests include VLSI physical design optimization, 
     AI-driven EDA and LLMs.
-    
 education:
   title: Education
   info:
@@ -62,15 +64,12 @@ experiences:
     - role: Graduate Student Researcher
       time: Feb.2021 - Current 
       company: CAD & SoC Design Lab(CSDL) in POSTECH, Prof, Seokhyeong Kang
-
     - role: Research Internship
       time: July.2023 - Aug.2023
       company: Design Technology Team, Memory Business in Samsung Electronics 
-
     - role: Undergraduated Student Researcher
       time: Sep.2020 - Feb.2021
       company: CAD & SoC Design Lab(CSDL) in POSTECH, Prof, Seokhyeong Kang
-
     - role: Undergraduated Student Researcher
       time: Jan.2019 - Feb.2019
       company: CAD & SoC Design Lab(CSDL) in POSTECH, Prof, Seokhyeong Kang
