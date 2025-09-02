@@ -123,5 +123,9 @@ publications:
       link: "#"
       conference: "IEEE/ACM Design, Automation and Test in Europe Conference and Exhibition (DATE 2025)"
 
+    - title: "(1st Author) REvolution: An Evolutionary Framework for RTL Generation driven by Large Language Models"
+      link: "#"
+      conference: "IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC 2026))"
+
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
