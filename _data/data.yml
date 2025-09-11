@@ -127,5 +127,12 @@ publications:
       link: "#"
       conference: "IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC 2026))"
 
+awards:
+  title: Awards
+  awards:
+    - title: "(2nd prize) ReSynthAI: Physical-Aware Logic Resynthesis for Timing Optimization Using AI
+      link: "#"
+      conference: "ACM/IEEE International Symposium on Machine Learning for CAD (MLCAD 2025)"
+
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
