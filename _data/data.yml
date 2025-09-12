@@ -76,6 +76,12 @@ experiences:
     - role: Undergraduated Student Researcher
       time: Jan.2019 - Feb.2019
       company: CAD & SoC Design Lab(CSDL) in POSTECH, Prof, Seokhyeong Kang
+    - role: Research Internship
+      time: Jun.2018 - Aug.2018
+      company: DEMO
+    - role: Research Internship
+      time: July.2017 - Aug.2017
+      company: POSCO DX 
 
 projects:
   title: Projects
@@ -90,6 +96,7 @@ projects:
     - title: "Artificial Design Generation using Generative AI Models – Samsung Electronics"
     - title: "LLM-Assisted Hardware Code Generation – ICCAD Contest"
     - title: "AI-based IC Design Techniques – LX Semicon"
+    - title: "(2nd Prize) ReSynthAI: Physical-Aware Logic Resynthesis for Timing Optimization Using AI - MLCAD Contest"
 
 publications:
   title: Publications
@@ -126,13 +133,6 @@ publications:
     - title: "(1st Author) REvolution: An Evolutionary Framework for RTL Generation driven by Large Language Models"
       link: "#"
       conference: "IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC 2026))"
-
-awards:
-  title: Awards
-  awards:
-    - title: "(2nd Prize) ReSynthAI: Physical-Aware Logic Resynthesis for Timing Optimization Using AI"
-      link: "#"
-      conference: "ACM/IEEE International Symposium on Machine Learning for CAD (MLCAD 2025)"
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
