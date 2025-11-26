@@ -122,6 +122,10 @@ publications:
       link: "#"
       conference: "ACM/IEEE Design Automation Conference (DAC 2024)"
 
+    - title: "(Co-Author) VeriLogos: Automatic Verilog RTL Generation using Large Language Models"
+      link: "#"
+      conference: "International SoC Design Conference (ISOCC 2024)"
+
     - title: "(Co-Author) Leveraging Machine Learning Techniques for Traditional EDA Workflow Enhancement"
       link: "#"
       conference: "IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC 2025)"
