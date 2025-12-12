@@ -13,8 +13,7 @@
   {% if awards.intro %}
   <div class="intro">
     {{ awards.intro | markdownify }}
-  </div>
-  {% endif %}
+  </div>{% endif %}
 
   {% for award in awards.papers %}
   <div class="item">
@@ -25,8 +24,6 @@
     {% endif %}
     
     <div class="publication-conference">{{ award.conference }}</div>
-  </div>
-  {% endfor %}
+  </div>{% endfor %}
 
-</section>
-{% endif %}
+</section>{% endif %}
