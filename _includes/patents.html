@@ -1,27 +1,29 @@
+{% assign patents = site.data.data.patents %}
+{% if patents %}
 <section class="section patents-section">
-    <h2 class="section-title">
-        <span class="fa-stack fa-xs">
-            <i class="fas fa-circle fa-stack-2x"></i>
-            <i class="fas fa-lightbulb fa-stack-1x fa-inverse"></i>
-        </span>
-        {{ site.data.data.patents.title }}
-    </h2>
 
-    <div class="intro">
-        <p>{{ site.data.data.patents.intro }}</p>
-    </div>
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-lightbulb fa-stack-1x fa-inverse"></i>
+    </span>
+    {{ patents.title }}
+  </h2>
 
-    <ul>
-        {% for patent in site.data.data.patents.papers %}
-        <li style="margin-bottom: 15px;">
-            <a href="{{ patent.link }}" target="_blank" style="color: #2d7788; font-weight: normal;">{{ patent.title }}</a>
-            
-            <br>
-            
-            <span style="color: #777; font-size: 0.95em;">
-                {{ patent.conference }}
-            </span>
-        </li>
-        {% endfor %}
-    </ul>
-</section>
+  {% if patents.intro %}
+  <div class="intro">
+    {{ patents.intro | markdownify }}
+  </div>{% endif %}
+
+  {% for patent in patents.papers %}
+  <div class="item">
+    {% if patent.link %}
+      <li><a href="{{ patent.link }}" target="_blank">{{ patent.title }}</a></li>
+    {% else %}
+      <li>{{ patent.title }}</li>
+    {% endif %}
+    
+    <div class="publication-conference">{{ patent.conference }}</div>
+  </div>{% endfor %}
+
+</section>{% endif %}
