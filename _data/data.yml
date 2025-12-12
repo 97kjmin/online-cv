@@ -142,11 +142,15 @@ awards:
   title: Awards
   intro: |
   papers:
-    - title: "2nd Prize, ReSynthAI: Physical-Aware Logic Resynthesis for Timing Optimization Using AI"
-      conference: "2025 ACM/IEEE International Symposium on Machine Learning for CAD"
+    - title: "Best Poster Award"
+      conference: "Korean Conference on Semiconductors (KCS) 2023"
 
     - title: "Best Poster Award"
-      conference: "KCS 2023 & ISOCC 2024"
+      conference: "International SoC Design Conference (ISOCC) 2024"
+
+    - title: "2nd Prize, ReSynthAI: Physical-Aware Logic Resynthesis for Timing Optimization Using AI"
+      conference: "2025 ACM/IEEE CEDA MLCAD Contest"
+
 
 patents:
   title: Patents
