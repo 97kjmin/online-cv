@@ -11,14 +11,17 @@
         <p>{{ site.data.data.patents.intro }}</p>
     </div>
 
-    {% for patent in site.data.data.patents.papers %}
-    <div class="item">
-        <div class="meta">
-            <div class="upper-row">
-                <h3 class="job-title"><a href="{{ patent.link }}" target="_blank">{{ patent.title }}</a></h3>
+    <ul>
+        {% for patent in site.data.data.patents.papers %}
+        <li style="margin-bottom: 10px;">
+            <span class="project-title">
+                <a href="{{ patent.link }}" target="_blank" style="font-weight: normal; color: #2d7788;">{{ patent.title }}</a>
+            </span>
+            
+            <div class="project-tagline" style="color: #777; font-size: 0.9em; margin-top: 2px;">
+                {{ patent.conference }}
             </div>
-            <div class="company">{{ patent.conference }}</div>
-        </div>
-    </div>
-    {% endfor %}
+        </li>
+        {% endfor %}
+    </ul>
 </section>
