@@ -13,14 +13,14 @@
 
     <ul>
         {% for patent in site.data.data.patents.papers %}
-        <li style="margin-bottom: 10px;">
-            <span class="project-title">
-                <a href="{{ patent.link }}" target="_blank" style="font-weight: normal; color: #2d7788;">{{ patent.title }}</a>
-            </span>
+        <li style="margin-bottom: 15px;">
+            <a href="{{ patent.link }}" target="_blank" style="color: #2d7788; font-weight: normal;">{{ patent.title }}</a>
             
-            <div class="project-tagline" style="color: #777; font-size: 0.9em; margin-top: 2px;">
+            <br>
+            
+            <span style="color: #777; font-size: 0.95em;">
                 {{ patent.conference }}
-            </div>
+            </span>
         </li>
         {% endfor %}
     </ul>
