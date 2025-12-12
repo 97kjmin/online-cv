@@ -83,6 +83,21 @@ experiences:
       time: July.2017 - Aug.2017
       company: POSCO DX 
 
+projects:
+  title: Projects
+  intro: >
+  assignments:
+    - title: "Wafer-Scale Physics Modeling – ISPD Contest"
+    - title: "AI Semiconductor Design Software Development – National Research Foundation of Korea"
+    - title: "Virtual Netlist Development Considering Standard Cell Usage – Samsung Electronics"
+    - title: "Functional ECO with Behavioral Change Guidance – ICCAD Contest"
+    - title: "Research on Physical Design (Place & Route) Optimization – Samsung Electronics"
+    - title: "Machine Learning Based Electronic Design Automation Software Development – Samsung Electronics"
+    - title: "Artificial Design Generation using Generative AI Models – Samsung Electronics"
+    - title: "LLM-Assisted Hardware Code Generation – ICCAD Contest"
+    - title: "AI-based IC Design Techniques – LX Semicon"
+    - title: "ReSynthAI: Physical-Aware Logic Resynthesis for Timing Optimization Using AI - MLCAD Contest"
+
 publications:
   title: Publications
   intro: |
@@ -122,21 +137,6 @@ publications:
     - title: "(1st Author) REvolution: An Evolutionary Framework for RTL Generation driven by Large Language Models"
       link: "#"
       conference: "IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC 2026))"
-
-projects:
-  title: Projects
-  intro: >
-  assignments:
-    - title: "Wafer-Scale Physics Modeling – ISPD Contest"
-    - title: "AI Semiconductor Design Software Development – National Research Foundation of Korea"
-    - title: "Virtual Netlist Development Considering Standard Cell Usage – Samsung Electronics"
-    - title: "Functional ECO with Behavioral Change Guidance – ICCAD Contest"
-    - title: "Research on Physical Design (Place & Route) Optimization – Samsung Electronics"
-    - title: "Machine Learning Based Electronic Design Automation Software Development – Samsung Electronics"
-    - title: "Artificial Design Generation using Generative AI Models – Samsung Electronics"
-    - title: "LLM-Assisted Hardware Code Generation – ICCAD Contest"
-    - title: "AI-based IC Design Techniques – LX Semicon"
-    - title: "ReSynthAI: Physical-Aware Logic Resynthesis for Timing Optimization Using AI - MLCAD Contest"
 
 awards:
   title: Awards
