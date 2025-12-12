@@ -1,6 +1,6 @@
 {% assign awards = site.data.data.awards %}
 {% if awards %}
-<section class="section awards-section">
+<section class="section publications-section">
 
   <h2 class="section-title">
     <span class="fa-stack fa-xs">
@@ -13,7 +13,8 @@
   {% if awards.intro %}
   <div class="intro">
     {{ awards.intro | markdownify }}
-  </div>{% endif %}
+  </div>
+  {% endif %}
 
   {% for award in awards.papers %}
   <div class="item">
@@ -24,6 +25,8 @@
     {% endif %}
     
     <div class="publication-conference">{{ award.conference }}</div>
-  </div>{% endfor %}
+  </div>
+  {% endfor %}
 
-</section>{% endif %}
+</section>
+{% endif %}
