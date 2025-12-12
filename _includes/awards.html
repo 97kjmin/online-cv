@@ -18,11 +18,10 @@
   {% for award in awards.papers %}
   <div class="item">
     {% if award.link %}
-      <li><a href="{{ award.link }}" target="_blank">{{ award.title }}</a></li>
+      <li><a href="{{ award.link }}">{{ award.title }}</a></li>
     {% else %}
       <li>{{ award.title }}</li>
     {% endif %}
-    
     <div class="publication-conference">{{ award.conference }}</div>
   </div>{% endfor %}
 
