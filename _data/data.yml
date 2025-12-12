@@ -83,29 +83,6 @@ experiences:
       time: July.2017 - Aug.2017
       company: POSCO DX 
 
-projects:
-  title: Projects
-  intro: >
-  assignments:
-    - title: "Wafer-Scale Physics Modeling – ISPD Contest"
-    - title: "AI Semiconductor Design Software Development – National Research Foundation of Korea"
-    - title: "Virtual Netlist Development Considering Standard Cell Usage – Samsung Electronics"
-    - title: "Functional ECO with Behavioral Change Guidance – ICCAD Contest"
-    - title: "Research on Physical Design (Place & Route) Optimization – Samsung Electronics"
-    - title: "Machine Learning Based Electronic Design Automation Software Development – Samsung Electronics"
-    - title: "Artificial Design Generation using Generative AI Models – Samsung Electronics"
-    - title: "LLM-Assisted Hardware Code Generation – ICCAD Contest"
-    - title: "AI-based IC Design Techniques – LX Semicon"
-    - title: "(2nd Prize) ReSynthAI: Physical-Aware Logic Resynthesis for Timing Optimization Using AI - MLCAD Contest"
-
-patents:
-  title: Patents
-  intro: |
-  papers:
-    - title: "APPARATUS AND METHOD FOR TRAINING A LARGE LANGUAGE MODEL FOR GENERATING VERILOG CODE USING DATA AUGMENTATION AND REINFORCEMENT LEARNING (데이터 증강 및 강화학습을 활용하여 베릴로그 코드 생성을 위한 거대 언어 모델을 트레이닝하는 방법 및 장치)"
-      link: "#"
-      conference: "KR Patent Application 10-2025-0145410 (Filed Oct. 02, 2025)"
-
 publications:
   title: Publications
   intro: |
@@ -145,6 +122,40 @@ publications:
     - title: "(1st Author) REvolution: An Evolutionary Framework for RTL Generation driven by Large Language Models"
       link: "#"
       conference: "IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC 2026))"
+
+projects:
+  title: Projects
+  intro: >
+  assignments:
+    - title: "Wafer-Scale Physics Modeling – ISPD Contest"
+    - title: "AI Semiconductor Design Software Development – National Research Foundation of Korea"
+    - title: "Virtual Netlist Development Considering Standard Cell Usage – Samsung Electronics"
+    - title: "Functional ECO with Behavioral Change Guidance – ICCAD Contest"
+    - title: "Research on Physical Design (Place & Route) Optimization – Samsung Electronics"
+    - title: "Machine Learning Based Electronic Design Automation Software Development – Samsung Electronics"
+    - title: "Artificial Design Generation using Generative AI Models – Samsung Electronics"
+    - title: "LLM-Assisted Hardware Code Generation – ICCAD Contest"
+    - title: "AI-based IC Design Techniques – LX Semicon"
+    - title: "ReSynthAI: Physical-Aware Logic Resynthesis for Timing Optimization Using AI - MLCAD Contest"
+
+awards:
+  title: Awards
+  intro: |
+  papers:
+    - title: "2nd Prize, ReSynthAI: Physical-Aware Logic Resynthesis for Timing Optimization Using AI"
+      conference: "2025 ACM/IEEE International Symposium on Machine Learning for CAD"
+
+    - title: "Best Poster Award"
+      conference: "Korean Conference on Semiconductors (KCS) 2023 & International SoC Design Conference (ISOCC) 2024"
+
+patents:
+  title: Patents
+  intro: |
+  papers:
+    - title: "APPARATUS AND METHOD FOR TRAINING A LARGE LANGUAGE MODEL FOR GENERATING VERILOG CODE USING DATA AUGMENTATION AND REINFORCEMENT LEARNING (데이터 증강 및 강화학습을 활용하여 베릴로그 코드 생성을 위한 거대 언어 모델을 트레이닝하는 방법 및 장치)"
+      link: "#"
+      conference: "KR Patent Application 10-2025-0145410 (Filed Oct. 02, 2025)"
+
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
