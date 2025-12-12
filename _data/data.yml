@@ -98,6 +98,14 @@ projects:
     - title: "AI-based IC Design Techniques – LX Semicon"
     - title: "(2nd Prize) ReSynthAI: Physical-Aware Logic Resynthesis for Timing Optimization Using AI - MLCAD Contest"
 
+patents:
+  title: Patents
+  intro: |
+  papers:
+    - title: "APPARATUS AND METHOD FOR TRAINING A LARGE LANGUAGE MODEL FOR GENERATING VERILOG CODE USING DATA AUGMENTATION AND REINFORCEMENT LEARNING (데이터 증강 및 강화학습을 활용하여 베릴로그 코드 생성을 위한 거대 언어 모델을 트레이닝하는 방법 및 장치)"
+      link: "#"
+      conference: "KR Patent Application 10-2025-0145410 (Filed Oct. 02, 2025)"
+
 publications:
   title: Publications
   intro: |
